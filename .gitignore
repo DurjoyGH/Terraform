@@ -4,6 +4,7 @@
 # Terraform state files
 *.tfstate
 *.tfstate.*
+*.tfvars
 
 # Crash logs
 crash.log
